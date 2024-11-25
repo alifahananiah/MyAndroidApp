@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398581731557",
+    "project_id": "crud-realtime-client-dd687",
+    "storage_bucket": "crud-realtime-client-dd687.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398581731557:android:6f11c0febca17e022a040c",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA94cOk_YLM4umkh4-PEVm7yz380WLnXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

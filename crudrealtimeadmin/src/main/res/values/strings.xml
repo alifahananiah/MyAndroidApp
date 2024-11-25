@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD Realtime Admin</string>
+    <string name="upload">Upload</string>
+    <string name="save">Save</string>
+    <string name="enter_owner_name">Enter owner name</string>
+    <string name="enter_vehicle_brand">Enter vehicle brand</string>
+    <string name="enter_vehicle_rto">Enter vehicle RTO</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>

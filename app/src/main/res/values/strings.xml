@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Realtime Client</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="search">Search</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="vehicle_brand">Vehicle Brand</string>
+</resources>
